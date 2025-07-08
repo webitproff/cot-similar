@@ -9,6 +9,12 @@ The Similar Pages plugin displays a block of similar pages (articles) based on t
 - Other pages across the entire site
 - Somewhat useful for SEO
 
+
+<img src="https://raw.githubusercontent.com/webitproff/cot-similar/refs/heads/main/cot-similar-00.jpg" alt="Cotonti CMF">
+
+<img src="https://raw.githubusercontent.com/webitproff/cot-similar/refs/heads/main/cot-similar.jpg" alt="Cotonti CMF">
+
+
 ## Features
 
 - Uses MySQL full-text search on the `page_title` field
