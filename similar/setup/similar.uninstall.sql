@@ -1,0 +1,1 @@
+ALTER TABLE `cot_pages` DROP INDEX `page_title_fulltext`;

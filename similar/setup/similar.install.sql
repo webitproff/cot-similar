@@ -1,0 +1,1 @@
+ALTER TABLE `cot_pages` ADD FULLTEXT `page_title_fulltext` (`page_title`);
